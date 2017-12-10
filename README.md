@@ -2,7 +2,7 @@
 This a small project that aims to show the good in Nigeria! Its common knowledge that most people around the world have a negative perception of the most populous black nation on earth!
 Here are a few facts about Nigeria;
 
----The current population of Nigeria is 193,058,717 as of Saturday, December 9, 2017, based on the latest United Nations          estimates.
+---The current population of Nigeria is 193,058,717 as of Saturday, December 9, 2017, based on the latest United Nations             estimates.
 
 ---Nigeria's population is equivalent to 2.53% of the total world population.
 
@@ -17,4 +17,5 @@ Here are a few facts about Nigeria;
 
 ---The official language in Nigeria is English (British-English).
 
----Nigeria is equally divided between Christianity and Islamic Religion(https://en.wikipedia.org/wiki/Religion_in_Nigeria).
+---Nigeria is equally divided between Christianity and Islamic Religion
+   (https://en.wikipedia.org/wiki/Religion_in_Nigeria).
